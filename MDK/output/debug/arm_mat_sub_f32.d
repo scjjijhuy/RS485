@@ -1,0 +1,9 @@
+.\output\debug\arm_mat_sub_f32.o: ..\bsp\dsp\arm_mat_sub_f32.c
+.\output\debug\arm_mat_sub_f32.o: ..\drivers\cmsis\Include\arm_math.h
+.\output\debug\arm_mat_sub_f32.o: ..\drivers\cmsis\Include\cmsis_compiler.h
+.\output\debug\arm_mat_sub_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\arm_mat_sub_f32.o: ..\drivers\cmsis\Include\cmsis_armcc.h
+.\output\debug\arm_mat_sub_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\string.h
+.\output\debug\arm_mat_sub_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\math.h
+.\output\debug\arm_mat_sub_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\float.h
+.\output\debug\arm_mat_sub_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\limits.h

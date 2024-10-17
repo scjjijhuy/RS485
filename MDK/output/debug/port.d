@@ -1,0 +1,15 @@
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\portable\RVDS\ARM_CM3\port.c
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\FreeRTOS.h
+.\output\debug\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\debug\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\port.o: .\RTE\RTOS\FreeRTOSConfig.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h
+.\output\debug\port.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\debug\port.o: .\RTE\_adc_base_Debug\RTE_Components.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\projdefs.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\portable.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\deprecated_definitions.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\portable\RVDS\ARM_CM3\portmacro.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\mpu_wrappers.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\task.h
+.\output\debug\port.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS-FreeRTOS\10.4.6\Source\include\list.h

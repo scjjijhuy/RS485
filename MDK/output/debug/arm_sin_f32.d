@@ -1,0 +1,9 @@
+.\output\debug\arm_sin_f32.o: ..\bsp\fmath\arm_sin_f32.c
+.\output\debug\arm_sin_f32.o: ..\bsp\fmath\arm_math.h
+.\output\debug\arm_sin_f32.o: ..\drivers\cmsis\Include\core_cm4.h
+.\output\debug\arm_sin_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\debug\arm_sin_f32.o: ..\drivers\cmsis\Include\cmsis_version.h
+.\output\debug\arm_sin_f32.o: ..\drivers\cmsis\Include\cmsis_compiler.h
+.\output\debug\arm_sin_f32.o: ..\drivers\cmsis\Include\cmsis_armcc.h
+.\output\debug\arm_sin_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\string.h
+.\output\debug\arm_sin_f32.o: D:\keil_V5.33\ARM\ARMCC\Bin\..\include\math.h
